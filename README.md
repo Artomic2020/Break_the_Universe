@@ -13,7 +13,7 @@ pip install pyglet
 Run the program:
 
 ```
-python main.py
+python starter_planets.py
 ```
 
 ## Your task
